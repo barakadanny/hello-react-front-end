@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Greetings from './components/Greetings';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Starting point</h1>
+        < Greetings />
       </header>
     </div>
   );
