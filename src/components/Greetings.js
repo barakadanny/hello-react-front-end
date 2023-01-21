@@ -1,7 +1,7 @@
 import React from 'react'
 import { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { fetchGreetings } from '../redux/greetings/greetingsActions';
+import { fetchGreetings } from '../redux/slice/greetingSlice';
 
 function Greetings() {
     const greeting = useSelector(state => state.greeting);
