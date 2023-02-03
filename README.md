@@ -32,6 +32,7 @@
 # 📖 Budget Buddy <a name="about-project"></a>
 
 > This is a simple App that returns a random greeting message fetched from an Api.
+* Link to the back-end [Backend](https://github.com/barakadanny/hello-rails-back-end/pull/2)
 
 ## 🛠 Built With <a name="built-with"></a>
 
