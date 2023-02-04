@@ -13,6 +13,7 @@ function Greetings() {
   return (
     <div>
       <h1>Greetings from component</h1>
+      <p>{greeting.message}</p>
     </div>
   )
 }
